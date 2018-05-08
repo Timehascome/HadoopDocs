@@ -1,0 +1,29 @@
+GTM Client for Windows:
+http://support.citrixonline.com/en_US/Meeting/help_files/G2M010002?Title=Download+GoToMeeting
+
+VMWare Player for windows:
+https://my.vmware.com/web/vmware/free#desktop_end_user_computing/vmware_player/7_0
+
+Ubuntu
+http://releases.ubuntu.com/14.04/
+http://releases.ubuntu.com/14.04/ubuntu-14.04.3-desktop-i386.iso
+
+Eclipse for windows (Latest Version)
+https://www.eclipse.org/downloads/
+
+Putty for windows (Latest Version) (optional)
+http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
+
+Winscp for windows (Latest Version) (optional)
+http://winscp.net/eng/download.php
+
+Hadoop tar-ball (CDH5.3)
+http://archive.cloudera.com/cdh5/cdh/5/hadoop-2.5.0-cdh5.3.2.tar.gz
+http://archive.cloudera.com/cdh5/cdh/5/flume-ng-1.5.0-cdh5.3.2.tar.gz
+http://archive.cloudera.com/cdh5/cdh/5/hbase-0.98.6-cdh5.3.2.tar.gz
+http://archive.cloudera.com/cdh5/cdh/5/hive-0.13.1-cdh5.3.2.tar.gz
+http://archive.cloudera.com/cdh5/cdh/5/oozie-4.0.0-cdh5.3.2.tar.gz
+http://archive.cloudera.com/cdh5/cdh/5/pig-0.12.0-cdh5.3.2.tar.gz
+http://archive.cloudera.com/cdh5/cdh/5/sqoop-1.4.5-cdh5.3.2.tar.gz
+
+4151126243/43620075
